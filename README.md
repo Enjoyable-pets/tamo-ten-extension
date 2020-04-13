@@ -2,9 +2,9 @@
 Chrome extension that makes all marks as 10.
 
 ### Setup
-upload extension to chrome browser
+Upload extension to chrome browser
 
-Enable extension
+Enable extension.
 
 Type in your browser https://www.tamo.lt/
 
